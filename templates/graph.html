@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>WA Secondary School Interactive Graph</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="../static/css/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="../static/css/scrolling-nav.css" rel="stylesheet">
+  <!-- Custom styles for this template -->
+  <link href="../static/css/styles.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+        <div class="container">
+            <a class="navbar-brand js-scroll-trigger" href="/">Home Page</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+                aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto">
+                    
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="/map">Map</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="#page-top">Graph</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="/data">Data</a>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+<header class="bg-primary text-white">
+    <div class="container text-center">
+      <h1 id="projectstart">Interactive Graph</h1>
+      <p class="lead">Top 10 Schools in 2020 by ATAR and its relative performance in the past 10 years </p>
+    </div>
+</header>
+
+</body>
+<br></br>
+<!-- Load d3.js -->
+<script src="https://d3js.org/d3.v4.js"></script>
+
+<!-- Add  buttons -->
+<button onclick="update(data1)">2010</button>
+<button onclick="update(data2)">2011</button>
+<button onclick="update(data3)">2012</button>
+<button onclick="update(data4)">2013</button>
+<button onclick="update(data5)">2014</button>
+<button onclick="update(data6)">2015</button>
+<button onclick="update(data7)">2016</button>
+<button onclick="update(data8)">2017</button>
+<button onclick="update(data9)">2018</button>
+<button onclick="update(data10)">2019</button>
+<button onclick="update(data11)">2020</button>
+
+
+<!-- Create a div where the graph will take place -->
+<div id="my_dataviz"></div>
+
+
+<script>
+// create 10 years data_set
+var data1 = [
+   {group: "John XXIII College" , value: 88.43},
+   {group: "Perth College" , value: 89.55},
+   {group: "Methodist Ladies College" , value: 89.9},
+   {group: "Hale School" , value: 90.1},
+   {group: "Santa Maria College" , value: 90.1},
+   {group: "Penrhos College" , value: 90.51},
+   {group: "St Marys Anglican" , value: 91},
+   {group: "St Hildas Anglican" , value: 91.87},
+   {group: "Christ Church Grammar School" , value: 92.3},
+   {group: "Perth Modern School" , value: 96.29}
+];
+
+var data2 = [
+{group: "John XXIII College" , value: 88.46},
+   {group: "Perth College" , value: 89.72},
+   {group: "Methodist Ladies College" , value: 89.97},
+   {group: "Hale School" , value: 90.05},
+   {group: "Santa Maria College" , value: 90.4},
+   {group: "Penrhos College" , value: 90.86},
+   {group: "St Marys Anglican" , value: 90.9},
+   {group: "St Hildas Anglican" , value: 91.79},
+   {group: "Christ Church Grammar School" , value: 92.33},
+   {group: "Perth Modern School" , value: 96.17}
+];
+
+var data3 = [
+{group: "John XXIII College" , value: 88.68},
+   {group: "Methodist Ladies College" , value: 89.56},
+   {group: "Perth College" , value: 89.67},
+   {group: "Hale School" , value: 89.92},
+   {group: "Santa Maria College" , value: 90.31},
+   {group: "St Marys Anglican" , value: 90.91},
+   {group: "Penrhos College" , value: 90.92},
+   {group: "St Hildas Anglican" , value: 92.09},
+   {group: "Christ Church Grammar School" , value: 92.35},
+   {group: "Perth Modern School" , value: 96.12}
+];
+
+var data4 = [
+{group: "John XXIII College" , value: 88.48},
+   {group: "Perth College" , value: 89.41},
+   {group: "Hale School" , value: 89.84},
+   {group: "Methodist Ladies College" , value: 89.96},
+   {group: "Santa Maria College" , value: 90.28},
+   {group: "Penrhos College" , value: 90.46},
+   {group: "St Marys Anglican" , value: 91.11},
+   {group: "St Hildas Anglican" , value: 92.02},
+   {group: "Christ Church Grammar School" , value: 92.23},
+   {group: "Perth Modern School" , value: 96.27}
+];
+
+var data5 = [
+{group: "John XXIII College" , value: 88.16},
+   {group: "Perth College" , value: 89.48},
+   {group: "Santa Maria College" , value: 89.81},
+   {group: "Methodist Ladies College" , value: 89.96},
+   {group: "Penrhos College" , value: 90.1},
+   {group: "Hale School" , value: 90.34},
+   {group: "St Marys Anglican" , value: 91.12},
+   {group: "St Hildas Anglican" , value: 91.63},
+   {group: "Christ Church Grammar School" , value: 92.27},
+   {group: "Perth Modern School" , value: 96.35}
+];
+
+var data6 = [
+{group: "John XXIII College" , value: 88.38},
+   {group: "Perth College" , value: 89.47},
+   {group: "Santa Maria College" , value: 89.73},
+   {group: "Methodist Ladies College" , value: 90.06},
+   {group: "Penrhos College" , value: 90.19},
+   {group: "Hale School" , value: 90.34},
+   {group: "St Marys Anglican" , value: 90.98},
+   {group: "St Hildas Anglican" , value: 91.81},
+   {group: "Christ Church Grammar School" , value: 92.31},
+   {group: "Perth Modern School" , value: 96.55}
+];
+
+var data7 = [
+{group: "John XXIII College" , value: 88.6},
+   {group: "Hale School" , value: 89.8},
+   {group: "Methodist Ladies College" , value: 90.3},
+   {group: "St Marys Anglican" , value: 90.4},
+   {group: "Perth College" , value: 90.55},
+   {group: "St Hildas Anglican" , value: 91.4},
+   {group: "Santa Maria College" , value: 91.85},
+   {group: "Christ Church Grammar School" , value: 92.5},
+   {group: "Penrhos College" , value: 92.65},
+   {group: "Perth Modern School" , value: 95.55}
+];
+
+var data8 = [
+{group: "Methodist Ladies College" , value: 87.5},
+   {group: "Hale School" , value: 89.3},
+   {group: "Perth College" , value: 89.45},
+   {group: "John XXIII College" , value: 89.8},
+   {group: "Santa Maria College" , value: 89.9},
+   {group: "St Marys Anglican" , value: 90.95},
+   {group: "Penrhos College" , value: 91.2},
+   {group: "Christ Church Grammar School" , value: 92.45},
+   {group: "St Hildas Anglican" , value: 93.6},
+   {group: "Perth Modern School" , value: 95.9}
+];
+
+var data9 = [
+{group: "John XXIII College" , value: 87.45},
+   {group: "Perth College" , value: 88.1},
+   {group: "Penrhos College" , value: 88.15},
+   {group: "Hale School" , value: 89.4},
+   {group: "Santa Maria College" , value: 90.1},
+   {group: "Christ Church Grammar School" , value: 91.6},
+   {group: "St Hildas Anglican" , value: 91.65},
+   {group: "Methodist Ladies College" , value: 92},
+   {group: "St Marys Anglican" , value: 92.1},
+   {group: "Perth Modern School" , value: 97}
+];
+
+var data10 = [
+{group: "John XXIII College" , value: 86.55},
+   {group: "Santa Maria College" , value: 87.45},
+   {group: "Penrhos College" , value: 88.3},
+   {group: "St Hildas Anglican" , value: 89.7},
+   {group: "Perth College" , value: 89.85},
+   {group: "Methodist Ladies College" , value: 89.95},
+   {group: "St Marys Anglican" , value: 91.15},
+   {group: "Christ Church Grammar School" , value: 92.5},
+   {group: "Hale School" , value: 92.85},
+   {group: "Perth Modern School" , value: 96.75}
+];
+
+var data11 = [
+{group: "Santa Maria College" , value: 89.35},
+   {group: "Perth College" , value: 89.4},
+   {group: "John XXIII College" , value: 89.5},
+   {group: "St Marys Anglican" , value: 90.3},
+   {group: "Hale School" , value: 90.35},
+   {group: "Methodist Ladies College" , value: 90.55},
+   {group: "Penrhos College" , value: 90.65},
+   {group: "Christ Church Grammar School" , value: 92.5},
+   {group: "St Hildas Anglican" , value: 92.7},
+   {group: "Perth Modern School" , value: 97.55}
+];
+
+// set the dimensions and margins of the graph
+var margin = {top: 30, right: 30, bottom: 70, left: 60},
+    width = 1500 - margin.left - margin.right,
+    height = 650 - margin.top - margin.bottom;
+
+// append the svg object to the body of the page
+var svg = d3.select("#my_dataviz")
+  .append("svg")
+  .attr("width", width + margin.left + margin.right)
+  .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+  .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+  svg.selectAll("text")
+
+  // apply text at the top
+// svg.append("text")
+//   	.attr('class','label-text')
+//   	.attr("x", function(d) { return xScale(d.group) + (xScale.rangeBand()/2) - 10; })
+//   	.attr("y", function(d) { return yScale(d.value) + 2 ; })
+//   	.attr("transform", function(d) { return "translate(10, -10)"; })
+//   	.text(function(d) { return d.value; });
+
+
+// Initialize the X axis
+var x = d3.scaleBand().range([ 0, width ]).padding(0.2);
+var xAxis = svg.append("g").attr("transform", "translate(0," + height + ")")
+
+
+// Initialize the Y axis
+var y = d3.scaleLinear().range([ height, 0]);
+var yAxis = svg.append("g").attr("class", "myYaxis")
+
+
+// A function that create / update the plot for a given variable:
+function update(data) {
+  // Update the X axis
+  x.domain(data.map(function(d) { return d.group; }))
+  xAxis.call(d3.axisBottom(x))
+
+  // Update the Y axis
+  y.domain([0, d3.max(data, function(d) { return d.value }) ]);
+  yAxis.transition().duration(1000).call(d3.axisLeft(y));
+
+  // Create the u variable
+  var u = svg.selectAll("rect")
+    .data(data)
+
+  u
+    .enter()
+    .append("rect") // Add a new rect for each new elements
+    .merge(u) // get the already existing elements as well
+    .transition() // and apply changes to all of them
+    .duration(1000)
+      .attr("x", function(d) { return x(d.group); })
+      .attr("y", function(d) { return y(d.value); })
+      .attr("width", x.bandwidth())
+      .attr("height", function(d) { return height - y(d.value); })
+      .attr("fill", "#272F49")
+      .append("Text")  
+      .attr('class','label-text')
+  	// .attr("x", function(d) { return xScale(d.group) + (xScale.rangeBand()/2) - 10; })
+  	// .attr("y", function(d) { return yScale(d.value) + 2 ; })
+  	// .attr("transform", function(d) { return "translate(10, -10)"; })
+  	// .text(function(d) { return d.value; });
+    // .text(function(d){return d.value}
+    // .attr("fill", function(d) {
+    // return "rgb(0, 0, " + (d * 10) + ")"
+
+  // If less group in the new dataset, I delete the ones not in use anymore
+
+
+  // u.append("Text")  
+  // 	.attr('class','label-text')
+  // 	.attr("x", function(d) { return xScale(d.group) + (xScale.rangeBand()/2) - 10; })
+  // 	.attr("y", function(d) { return yScale(d.value) + 2 ; })
+  // 	.attr("transform", function(d) { return "translate(10, -10)"; })
+  // 	.text(function(d) { return d.value; });
+
+  u
+    .exit()
+    .remove()
+}
+
+// Initialize the plot with the first dataset
+update(data1)
+
+</script>
+</body>
+</div>
+</section>
+
+
+
+<!-- Footer -->
+<footer class="py-5 bg-dark">
+  <div class="container">
+    <p class="m-0 text-center text-white"> </p>
+  </div>
+  <!-- /.container -->
+</footer>
+
+<!-- Bootstrap core JavaScript -->
+<script src="../static/js/jquery/jquery.min.js"></script>
+<script src="../static/js/bootstrap.bundle.min.js"></script>
+
+<!-- D3 CDN -->
+<script src="https://d3js.org/d3.v5.min.js"></script>
+
+<!-- Plugin JavaScript -->
+<script src="../static/js/jquery-easing/jquery.easing.min.js"></script>
+
+<!-- Custom JavaScript for this theme -->
+<script src="../static/js/scrolling-nav.js"></script>
+
+
+</body>

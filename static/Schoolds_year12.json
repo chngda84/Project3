@@ -1,0 +1,1082 @@
+[
+  {
+    "Ranking": 1,
+    "School_Name": "PERTH MODERN SCHOOL",
+    "Score": 97.55,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -31.94506602,
+    "Longitude": 115.8363958
+  },
+  {
+    "Ranking": 2,
+    "School_Name": "ST HILDA'S ANGLICAN SCHOOL FOR GIRLS",
+    "Score": 92.7,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -32.005047,
+    "Longitude": 115.767812
+  },
+  {
+    "Ranking": 3,
+    "School_Name": "CHRIST CHURCH GRAMMAR SCHOOL",
+    "Score": 92.5,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.98546117,
+    "Longitude": 115.7769868
+  },
+  {
+    "Ranking": 4,
+    "School_Name": "PENRHOS COLLEGE",
+    "Score": 90.65,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.99743072,
+    "Longitude": 115.8725394
+  },
+  {
+    "Ranking": 5,
+    "School_Name": "METHODIST LADIES' COLLEGE",
+    "Score": 90.55,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.98701169,
+    "Longitude": 115.7755403
+  },
+  {
+    "Ranking": 6,
+    "School_Name": "HALE SCHOOL",
+    "Score": 90.35,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.91232249,
+    "Longitude": 115.7837828
+  },
+  {
+    "Ranking": 7,
+    "School_Name": "ST MARY'S ANGLICAN GIRLS' SCHOOL",
+    "Score": 90.3,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.87697112,
+    "Longitude": 115.766244
+  },
+  {
+    "Ranking": 8,
+    "School_Name": "JOHN XXIII COLLEGE",
+    "Score": 89.5,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.9599189,
+    "Longitude": 115.7847988
+  },
+  {
+    "Ranking": 9,
+    "School_Name": "PERTH COLLEGE",
+    "Score": 89.4,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.93117853,
+    "Longitude": 115.8754809
+  },
+  {
+    "Ranking": 10,
+    "School_Name": "SANTA MARIA COLLEGE",
+    "Score": 89.35,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -32.018614,
+    "Longitude": 115.795823
+  },
+  {
+    "Ranking": 11,
+    "School_Name": "KENNEDY BAPTIST COLLEGE",
+    "Score": 88.95,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -32.073356,
+    "Longitude": 115.829647
+  },
+  {
+    "Ranking": 12,
+    "School_Name": "CARMEL SCHOOL",
+    "Score": 88.85,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.89910743,
+    "Longitude": 115.8620749
+  },
+  {
+    "Ranking": 13,
+    "School_Name": "SHENTON COLLEGE",
+    "Score": 88.6,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -31.95969986,
+    "Longitude": 115.803008
+  },
+  {
+    "Ranking": 14,
+    "School_Name": "MERCEDES COLLEGE",
+    "Score": 88.55,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.95623304,
+    "Longitude": 115.8670832
+  },
+  {
+    "Ranking": 15,
+    "School_Name": "ROSSMOYNE SENIOR HIGH SCHOOL",
+    "Score": 88.4,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -32.04626472,
+    "Longitude": 115.8705457
+  },
+  {
+    "Ranking": 16,
+    "School_Name": "IONA PRESENTATION COLLEGE",
+    "Score": 87.8,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -32.00852636,
+    "Longitude": 115.7677349
+  },
+  {
+    "Ranking": 17,
+    "School_Name": "WILLETTON SENIOR HIGH SCHOOL",
+    "Score": 87.75,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -32.06131317,
+    "Longitude": 115.8792246
+  },
+  {
+    "Ranking": 18,
+    "School_Name": "SACRED HEART COLLEGE",
+    "Score": 87.6,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.82737166,
+    "Longitude": 115.74657
+  },
+  {
+    "Ranking": 19,
+    "School_Name": "MOUNT LAWLEY SENIOR HIGH SCHOOL",
+    "Score": 86.45,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -31.92122258,
+    "Longitude": 115.8697493
+  },
+  {
+    "Ranking": 20,
+    "School_Name": "ALL SAINTS' COLLEGE",
+    "Score": 86.35,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -32.04946998,
+    "Longitude": 115.867023
+  },
+  {
+    "Ranking": 21,
+    "School_Name": "CHURCHLANDS SENIOR HIGH SCHOOL",
+    "Score": 85.9,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -31.91728978,
+    "Longitude": 115.7899902
+  },
+  {
+    "Ranking": 22,
+    "School_Name": "AQUINAS COLLEGE",
+    "Score": 85.85,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -32.02617519,
+    "Longitude": 115.8617538
+  },
+  {
+    "Ranking": 23,
+    "School_Name": "SCOTCH COLLEGE",
+    "Score": 85.35,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.98113329,
+    "Longitude": 115.7731945
+  },
+  {
+    "Ranking": 24,
+    "School_Name": "JOHN CURTIN COLLEGE OF THE ARTS",
+    "Score": 85.25,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -32.04863279,
+    "Longitude": 115.7562238
+  },
+  {
+    "Ranking": 25,
+    "School_Name": "MAZENOD COLLEGE",
+    "Score": 85.25,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -32.006679,
+    "Longitude": 116.0388409
+  },
+  {
+    "Ranking": 26,
+    "School_Name": "OUR LADY OF MERCY COLLEGE",
+    "Score": 85.2,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -33.270941,
+    "Longitude": 115.740064
+  },
+  {
+    "Ranking": 27,
+    "School_Name": "CORPUS CHRISTI COLLEGE",
+    "Score": 84.95,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -32.05699614,
+    "Longitude": 115.8429056
+  },
+  {
+    "Ranking": 28,
+    "School_Name": "BUNBURY CATHEDRAL GRAMMAR SCHOOL",
+    "Score": 84.8,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -33.404668,
+    "Longitude": 115.63864
+  },
+  {
+    "Ranking": 29,
+    "School_Name": "CHISHOLM CATHOLIC COLLEGE",
+    "Score": 84.8,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.91151257,
+    "Longitude": 115.9005647
+  },
+  {
+    "Ranking": 30,
+    "School_Name": "ST STEPHEN'S SCHOOL",
+    "Score": 84.75,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.8192748,
+    "Longitude": 115.7806424
+  },
+  {
+    "Ranking": 31,
+    "School_Name": "DUNCRAIG SENIOR HIGH SCHOOL",
+    "Score": 84.5,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -31.82190527,
+    "Longitude": 115.767131
+  },
+  {
+    "Ranking": 32,
+    "School_Name": "MANDURAH CATHOLIC COLLEGE",
+    "Score": 84.5,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -32.54895945,
+    "Longitude": 115.738286
+  },
+  {
+    "Ranking": 33,
+    "School_Name": "APPLECROSS SENIOR HIGH SCHOOL",
+    "Score": 84.3,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -32.029376,
+    "Longitude": 115.83509
+  },
+  {
+    "Ranking": 34,
+    "School_Name": "COMET BAY COLLEGE",
+    "Score": 84,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -32.4158052,
+    "Longitude": 115.7629996
+  },
+  {
+    "Ranking": 35,
+    "School_Name": "JOHN SEPTIMUS ROE ANGLICAN COMMUNITY SCHOOL",
+    "Score": 84,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.85936631,
+    "Longitude": 115.8567055
+  },
+  {
+    "Ranking": 36,
+    "School_Name": "WESLEY COLLEGE",
+    "Score": 83.9,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.97995555,
+    "Longitude": 115.865934
+  },
+  {
+    "Ranking": 37,
+    "School_Name": "PROVIDENCE CHRISTIAN COLLEGE",
+    "Score": 83.85,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -32.09974606,
+    "Longitude": 115.9366941
+  },
+  {
+    "Ranking": 38,
+    "School_Name": "BUTLER COLLEGE",
+    "Score": 83.7,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -31.65166367,
+    "Longitude": 115.7087008
+  },
+  {
+    "Ranking": 39,
+    "School_Name": "JOHN WOLLASTON ANGLICAN COMMUNITY SCHOOL",
+    "Score": 83.3,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -32.104726,
+    "Longitude": 116.007834
+  },
+  {
+    "Ranking": 40,
+    "School_Name": "URSULA FRAYNE CATHOLIC COLLEGE",
+    "Score": 83.15,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.97297817,
+    "Longitude": 115.8990335
+  },
+  {
+    "Ranking": 41,
+    "School_Name": "ST NORBERT COLLEGE",
+    "Score": 83,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -32.00436432,
+    "Longitude": 115.9403443
+  },
+  {
+    "Ranking": 42,
+    "School_Name": "TRINITY COLLEGE",
+    "Score": 82.85,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.96013472,
+    "Longitude": 115.8825766
+  },
+  {
+    "Ranking": 43,
+    "School_Name": "NEWMAN COLLEGE",
+    "Score": 82.7,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.9231958,
+    "Longitude": 115.7873551
+  },
+  {
+    "Ranking": 44,
+    "School_Name": "GEORGIANA MOLLOY ANGLICAN SCHOOL",
+    "Score": 82.6,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -33.6606425,
+    "Longitude": 115.3815495
+  },
+  {
+    "Ranking": 45,
+    "School_Name": "MERCY COLLEGE",
+    "Score": 82.5,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.84725114,
+    "Longitude": 115.8575544
+  },
+  {
+    "Ranking": 46,
+    "School_Name": "CARINE SENIOR HIGH SCHOOL",
+    "Score": 82.35,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -31.85299735,
+    "Longitude": 115.775848
+  },
+  {
+    "Ranking": 47,
+    "School_Name": "MARGARET RIVER SENIOR HIGH SCHOOL",
+    "Score": 82.35,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -33.95431827,
+    "Longitude": 115.0746714
+  },
+  {
+    "Ranking": 48,
+    "School_Name": "KINGSWAY CHRISTIAN COLLEGE",
+    "Score": 81.65,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.81156717,
+    "Longitude": 115.8374044
+  },
+  {
+    "Ranking": 49,
+    "School_Name": "LIVING WATERS LUTHERAN COLLEGE",
+    "Score": 81.5,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -32.34307717,
+    "Longitude": 115.7544169
+  },
+  {
+    "Ranking": 50,
+    "School_Name": "GUILDFORD GRAMMAR SCHOOL",
+    "Score": 81.35,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.894036,
+    "Longitude": 115.981892
+  },
+  {
+    "Ranking": 51,
+    "School_Name": "LA SALLE COLLEGE",
+    "Score": 81.25,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.87856979,
+    "Longitude": 116.004411
+  },
+  {
+    "Ranking": 52,
+    "School_Name": "SWAN VALLEY ANGLICAN COMMUNITY SCHOOL",
+    "Score": 81.25,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.79434482,
+    "Longitude": 115.9854516
+  },
+  {
+    "Ranking": 53,
+    "School_Name": "PETER MOYES ANGLICAN COMMUNITY SCHOOL",
+    "Score": 81.05,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.67541576,
+    "Longitude": 115.7075982
+  },
+  {
+    "Ranking": 54,
+    "School_Name": "JOHN CALVIN CHRISTIAN COLLEGE",
+    "Score": 80.95,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -32.14876453,
+    "Longitude": 116.0066034
+  },
+  {
+    "Ranking": 55,
+    "School_Name": "BELMONT CITY COLLEGE",
+    "Score": 80.85,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -31.95889136,
+    "Longitude": 115.9344344
+  },
+  {
+    "Ranking": 56,
+    "School_Name": "EMMANUEL CATHOLIC COLLEGE",
+    "Score": 80.8,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -32.12857818,
+    "Longitude": 115.8400696
+  },
+  {
+    "Ranking": 57,
+    "School_Name": "ST MARK'S ANGLICAN COMMUNITY SCHOOL",
+    "Score": 80.8,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.79848743,
+    "Longitude": 115.7428728
+  },
+  {
+    "Ranking": 58,
+    "School_Name": "PRENDIVILLE CATHOLIC COLLEGE",
+    "Score": 80.45,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.75468355,
+    "Longitude": 115.7396844
+  },
+  {
+    "Ranking": 59,
+    "School_Name": "MELVILLE SENIOR HIGH SCHOOL",
+    "Score": 80.35,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -32.04631125,
+    "Longitude": 115.8054613
+  },
+  {
+    "Ranking": 60,
+    "School_Name": "TRANBY COLLEGE",
+    "Score": 80.3,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -32.3405703,
+    "Longitude": 115.8002428
+  },
+  {
+    "Ranking": 61,
+    "School_Name": "MANJIMUP SENIOR HIGH SCHOOL",
+    "Score": 80.05,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -34.233842,
+    "Longitude": 116.133228
+  },
+  {
+    "Ranking": 62,
+    "School_Name": "SERVITE COLLEGE",
+    "Score": 80,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.90270449,
+    "Longitude": 115.8336415
+  },
+  {
+    "Ranking": 63,
+    "School_Name": "CAPE NATURALISTE COLLEGE",
+    "Score": 79.95,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -33.67693545,
+    "Longitude": 115.2438891
+  },
+  {
+    "Ranking": 64,
+    "School_Name": "ESPERANCE SENIOR HIGH SCHOOL",
+    "Score": 79.9,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -33.86017872,
+    "Longitude": 121.868258
+  },
+  {
+    "Ranking": 65,
+    "School_Name": "CANNING VALE COLLEGE",
+    "Score": 79.8,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -32.08291838,
+    "Longitude": 115.9227838
+  },
+  {
+    "Ranking": 66,
+    "School_Name": "FREDERICK IRWIN ANGLICAN SCHOOL",
+    "Score": 79.65,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -32.50869435,
+    "Longitude": 115.7530802
+  },
+  {
+    "Ranking": 67,
+    "School_Name": "ST MARY MACKILLOP COLLEGE",
+    "Score": 79.3,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -33.66260748,
+    "Longitude": 115.3302509
+  },
+  {
+    "Ranking": 68,
+    "School_Name": "BUNBURY CATHOLIC COLLEGE",
+    "Score": 78.95,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -33.34342203,
+    "Longitude": 115.6614239
+  },
+  {
+    "Ranking": 69,
+    "School_Name": "LESMURDIE SENIOR HIGH SCHOOL",
+    "Score": 78.95,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -32.01252075,
+    "Longitude": 116.0516431
+  },
+  {
+    "Ranking": 70,
+    "School_Name": "DENMARK SENIOR HIGH SCHOOL",
+    "Score": 78.9,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -34.95741408,
+    "Longitude": 117.3645842
+  },
+  {
+    "Ranking": 71,
+    "School_Name": "JOHN FORREST SECONDARY COLLEGE",
+    "Score": 78.7,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -31.90416352,
+    "Longitude": 115.90089
+  },
+  {
+    "Ranking": 72,
+    "School_Name": "ASHDALE SECONDARY COLLEGE",
+    "Score": 78.65,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -31.81162275,
+    "Longitude": 115.8414952
+  },
+  {
+    "Ranking": 73,
+    "School_Name": "AUSTRALIND SENIOR HIGH SCHOOL",
+    "Score": 78.4,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -33.27665965,
+    "Longitude": 115.7284365
+  },
+  {
+    "Ranking": 74,
+    "School_Name": "WOODVALE SECONDARY COLLEGE",
+    "Score": 77.65,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -31.79154969,
+    "Longitude": 115.7994712
+  },
+  {
+    "Ranking": 75,
+    "School_Name": "HELENA COLLEGE",
+    "Score": 77.35,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.90747,
+    "Longitude": 116.09144
+  },
+  {
+    "Ranking": 76,
+    "School_Name": "BUNBURY SENIOR HIGH SCHOOL",
+    "Score": 77.3,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -33.32746917,
+    "Longitude": 115.6326077
+  },
+  {
+    "Ranking": 77,
+    "School_Name": "LAKE JOONDALUP BAPTIST COLLEGE",
+    "Score": 77.25,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.73747504,
+    "Longitude": 115.7614206
+  },
+  {
+    "Ranking": 78,
+    "School_Name": "MANEA SENIOR COLLEGE",
+    "Score": 77.05,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -33.36775659,
+    "Longitude": 115.6567975
+  },
+  {
+    "Ranking": 79,
+    "School_Name": "NAGLE CATHOLIC COLLEGE",
+    "Score": 77.05,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -28.77776964,
+    "Longitude": 114.6099931
+  },
+  {
+    "Ranking": 80,
+    "School_Name": "OCEAN REEF SENIOR HIGH SCHOOL",
+    "Score": 76.35,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -31.75879833,
+    "Longitude": 115.7389749
+  },
+  {
+    "Ranking": 81,
+    "School_Name": "GREAT SOUTHERN GRAMMAR",
+    "Score": 76.05,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -34.94755539,
+    "Longitude": 117.9707332
+  },
+  {
+    "Ranking": 82,
+    "School_Name": "AL-AMEEN COLLEGE",
+    "Score": 75.9,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -32.04605574,
+    "Longitude": 115.9371583
+  },
+  {
+    "Ranking": 83,
+    "School_Name": "GREENWOOD COLLEGE",
+    "Score": 75.75,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -31.82628484,
+    "Longitude": 115.7914439
+  },
+  {
+    "Ranking": 84,
+    "School_Name": "COMO SECONDARY COLLEGE",
+    "Score": 75.7,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -32.00366439,
+    "Longitude": 115.8711551
+  },
+  {
+    "Ranking": 85,
+    "School_Name": "ELLENBROOK CHRISTIAN COLLEGE",
+    "Score": 75.65,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.786783,
+    "Longitude": 115.959178
+  },
+  {
+    "Ranking": 86,
+    "School_Name": "LEEMING SENIOR HIGH SCHOOL",
+    "Score": 75.6,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -32.07467304,
+    "Longitude": 115.8564902
+  },
+  {
+    "Ranking": 87,
+    "School_Name": "BROOME SENIOR HIGH SCHOOL",
+    "Score": 75.45,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -17.95614273,
+    "Longitude": 122.2323264
+  },
+  {
+    "Ranking": 88,
+    "School_Name": "SETON CATHOLIC COLLEGE",
+    "Score": 75.35,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -32.07269529,
+    "Longitude": 115.7933707
+  },
+  {
+    "Ranking": 89,
+    "School_Name": "JOSEPH BANKS SECONDARY COLLEGE",
+    "Score": 74.95,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -31.69867412,
+    "Longitude": 115.7965911
+  },
+  {
+    "Ranking": 90,
+    "School_Name": "KENT STREET SENIOR HIGH SCHOOL",
+    "Score": 74.65,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -31.98570399,
+    "Longitude": 115.8926602
+  },
+  {
+    "Ranking": 91,
+    "School_Name": "SWAN CHRISTIAN COLLEGE",
+    "Score": 74.65,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.85830659,
+    "Longitude": 116.0117533
+  },
+  {
+    "Ranking": 92,
+    "School_Name": "GERALDTON GRAMMAR SCHOOL",
+    "Score": 74.45,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -28.76195313,
+    "Longitude": 114.621025
+  },
+  {
+    "Ranking": 93,
+    "School_Name": "LYNWOOD SENIOR HIGH SCHOOL",
+    "Score": 74.35,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -32.04190909,
+    "Longitude": 115.9161296
+  },
+  {
+    "Ranking": 94,
+    "School_Name": "KOLBE CATHOLIC COLLEGE",
+    "Score": 74.25,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -32.27997384,
+    "Longitude": 115.7539727
+  },
+  {
+    "Ranking": 95,
+    "School_Name": "HOLY CROSS COLLEGE",
+    "Score": 74.2,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.773097,
+    "Longitude": 115.973832
+  },
+  {
+    "Ranking": 96,
+    "School_Name": "ST BRIGID'S COLLEGE",
+    "Score": 73.85,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.99663035,
+    "Longitude": 116.0520664
+  },
+  {
+    "Ranking": 97,
+    "School_Name": "MORLEY SENIOR HIGH SCHOOL",
+    "Score": 73.7,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -31.8737169,
+    "Longitude": 115.8836692
+  },
+  {
+    "Ranking": 98,
+    "School_Name": "ALBANY SENIOR HIGH SCHOOL",
+    "Score": 72.8,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -35.02044765,
+    "Longitude": 117.8917733
+  },
+  {
+    "Ranking": 99,
+    "School_Name": "BELRIDGE SECONDARY COLLEGE",
+    "Score": 72.55,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -31.77038385,
+    "Longitude": 115.7631759
+  },
+  {
+    "Ranking": 100,
+    "School_Name": "MATER DEI COLLEGE",
+    "Score": 72.45,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.76466034,
+    "Longitude": 115.7765193
+  },
+  {
+    "Ranking": 101,
+    "School_Name": "EASTERN HILLS SENIOR HIGH SCHOOL",
+    "Score": 72.2,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -31.87396818,
+    "Longitude": 116.2200892
+  },
+  {
+    "Ranking": 102,
+    "School_Name": "ARANMORE CATHOLIC COLLEGE",
+    "Score": 71.95,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.92706854,
+    "Longitude": 115.8431695
+  },
+  {
+    "Ranking": 103,
+    "School_Name": "KALAMUNDA SENIOR HIGH SCHOOL",
+    "Score": 71.05,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -31.97788079,
+    "Longitude": 116.0561861
+  },
+  {
+    "Ranking": 104,
+    "School_Name": "JOHN PAUL COLLEGE",
+    "Score": 71,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -30.76410096,
+    "Longitude": 121.4787154
+  },
+  {
+    "Ranking": 105,
+    "School_Name": "MANDURAH BAPTIST COLLEGE",
+    "Score": 70.65,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -32.47830702,
+    "Longitude": 115.7601182
+  },
+  {
+    "Ranking": 106,
+    "School_Name": "NORTH ALBANY SENIOR HIGH SCHOOL",
+    "Score": 70.15,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -34.99074882,
+    "Longitude": 117.8668674
+  },
+  {
+    "Ranking": 107,
+    "School_Name": "MINDARIE SENIOR COLLEGE",
+    "Score": 70.1,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -31.6769792,
+    "Longitude": 115.7060496
+  },
+  {
+    "Ranking": 108,
+    "School_Name": "HALLS HEAD COLLEGE",
+    "Score": 69.95,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -32.55444963,
+    "Longitude": 115.6942404
+  },
+  {
+    "Ranking": 109,
+    "School_Name": "KELMSCOTT SENIOR HIGH SCHOOL",
+    "Score": 69.7,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -32.12147619,
+    "Longitude": 116.0110534
+  },
+  {
+    "Ranking": 110,
+    "School_Name": "SEVENOAKS SENIOR COLLEGE",
+    "Score": 68.95,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -32.01247925,
+    "Longitude": 115.9423052
+  },
+  {
+    "Ranking": 111,
+    "School_Name": "EASTERN GOLDFIELDS COLLEGE",
+    "Score": 68.2,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -30.75101639,
+    "Longitude": 121.4753746
+  },
+  {
+    "Ranking": 112,
+    "School_Name": "BYFORD SECONDARY COLLEGE",
+    "Score": 68,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -32.22343162,
+    "Longitude": 116.0018793
+  },
+  {
+    "Ranking": 113,
+    "School_Name": "HAMPTON SENIOR HIGH SCHOOL",
+    "Score": 67.15,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -31.89085713,
+    "Longitude": 115.92693
+  },
+  {
+    "Ranking": 114,
+    "School_Name": "QUINNS BAPTIST COLLEGE",
+    "Score": 66.9,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.67618587,
+    "Longitude": 115.7101964
+  },
+  {
+    "Ranking": 115,
+    "School_Name": "ELLENBROOK SECONDARY COLLEGE",
+    "Score": 66.25,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -31.78554916,
+    "Longitude": 115.9642807
+  },
+  {
+    "Ranking": 116,
+    "School_Name": "IRENE MCCORMACK CATHOLIC COLLEGE",
+    "Score": 66.2,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -31.65406275,
+    "Longitude": 115.709449
+  },
+  {
+    "Ranking": 117,
+    "School_Name": "SOUTHERN RIVER COLLEGE",
+    "Score": 66,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -32.08559751,
+    "Longitude": 115.979918
+  },
+  {
+    "Ranking": 118,
+    "School_Name": "LUMEN CHRISTI COLLEGE",
+    "Score": 65.9,
+    "Classification": "NON-GOVERNMENT",
+    "Latitude": -32.06737479,
+    "Longitude": 116.0120135
+  },
+  {
+    "Ranking": 119,
+    "School_Name": "NORTHAM SENIOR HIGH SCHOOL",
+    "Score": 65.65,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -31.64725593,
+    "Longitude": 116.6676491
+  },
+  {
+    "Ranking": 120,
+    "School_Name": "NARROGIN SENIOR HIGH SCHOOL",
+    "Score": 65.45,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -32.93810289,
+    "Longitude": 117.1914239
+  },
+  {
+    "Ranking": 121,
+    "School_Name": "THORNLIE SENIOR HIGH SCHOOL",
+    "Score": 65.35,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -32.06627622,
+    "Longitude": 115.959641
+  },
+  {
+    "Ranking": 122,
+    "School_Name": "JOHN TONKIN COLLEGE",
+    "Score": 64.6,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -32.51758689,
+    "Longitude": 115.756358
+  },
+  {
+    "Ranking": 123,
+    "School_Name": "GERALDTON SENIOR HIGH SCHOOL",
+    "Score": 64.5,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -28.78068474,
+    "Longitude": 114.6117092
+  },
+  {
+    "Ranking": 124,
+    "School_Name": "FREMANTLE COLLEGE",
+    "Score": 64.25,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -32.06791,
+    "Longitude": 115.76798
+  },
+  {
+    "Ranking": 125,
+    "School_Name": "ATWELL COLLEGE",
+    "Score": 64.05,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -32.14395682,
+    "Longitude": 115.8641462
+  },
+  {
+    "Ranking": 126,
+    "School_Name": "GOVERNOR STIRLING SENIOR HIGH SCHOOL",
+    "Score": 63.8,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -31.88893826,
+    "Longitude": 115.9888056
+  },
+  {
+    "Ranking": 127,
+    "School_Name": "WANNEROO SECONDARY COLLEGE",
+    "Score": 63.35,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -31.7578766,
+    "Longitude": 115.8151333
+  },
+  {
+    "Ranking": 128,
+    "School_Name": "KARRATHA SENIOR HIGH SCHOOL",
+    "Score": 62.8,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -20.74695822,
+    "Longitude": 116.8241249
+  },
+  {
+    "Ranking": 129,
+    "School_Name": "BALLAJURA COMMUNITY COLLEGE",
+    "Score": 62.5,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -31.84474671,
+    "Longitude": 115.8934345
+  },
+  {
+    "Ranking": 130,
+    "School_Name": "BALDIVIS SECONDARY COLLEGE",
+    "Score": 60.45,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -32.334099,
+    "Longitude": 115.828418
+  },
+  {
+    "Ranking": 131,
+    "School_Name": "BALCATTA SENIOR HIGH SCHOOL",
+    "Score": 60.4,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -31.87551716,
+    "Longitude": 115.8122429
+  },
+  {
+    "Ranking": 132,
+    "School_Name": "SAFETY BAY SENIOR HIGH SCHOOL",
+    "Score": 58.75,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -32.30328609,
+    "Longitude": 115.7409641
+  },
+  {
+    "Ranking": 133,
+    "School_Name": "DARLING RANGE SPORTS COLLEGE",
+    "Score": 52.4,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -31.97566063,
+    "Longitude": 116.0108597
+  },
+  {
+    "Ranking": 134,
+    "School_Name": "GILMORE COLLEGE",
+    "Score": 52.25,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -32.238266,
+    "Longitude": 115.814803
+  },
+  {
+    "Ranking": 135,
+    "School_Name": "CECIL ANDREWS COLLEGE",
+    "Score": 49.85,
+    "Classification": "SECONDARY SCHOOLS",
+    "Latitude": -32.14118727,
+    "Longitude": 115.9918834
+  }
+]
